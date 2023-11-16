@@ -3,7 +3,7 @@
 
 - 📫 How to reach me 
 - email- panchalparthppp@gmail.com
-- Linkedin- www.linkedin.com/in/parth-panchal-b57492240
+- Linkedin- [www.linkedin.com/in/parth-panchal-b57492240](https://www.linkedin.com/in/parth-panchal-b57492240)
 
 <!---
 Parth189p/Parth189p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
