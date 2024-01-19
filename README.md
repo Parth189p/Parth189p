@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parth Panchal
-- 👀 I am a highly curious individual with a passion for data science and Machine Learning. My interests range from exploring new concepts and technologies to experimenting with different techniques and tools.My passion for data science is driven by my curiosity and my desire to continue learning and experimenting in the field. I am always looking for new challenges and opportunities to expand my knowledge and skills.
+- 👀 I am a highly curious individual with a passion for data science and Machine Learning. My interests range from exploring new concepts and technologies to experimenting with different techniques and tools.My passion for Machine learning is driven by my curiosity and my desire to continue learning and experimenting in the field. I am always looking for new challenges and opportunities to expand my knowledge and skills.
 
 - 📫 How to reach me 
 - email- panchalparthppp@gmail.com
