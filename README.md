@@ -16,11 +16,9 @@ I am a highly curious individual with a passion for data science and Machine Lea
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
 
 - 📫 How to reach me 
-- email- panchalparthppp@gmail.com
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](panchalparthppp@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/parth-panchal-b57492240)
 
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParthPanchal)
 
 <!---
 Parth189p/Parth189p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
