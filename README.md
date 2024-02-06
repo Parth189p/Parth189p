@@ -35,7 +35,7 @@ I am a highly curious individual with a passion for data science and Machine Lea
 
 ### ML-ops Tools
 [![Ml-flow](https://img.shields.io/badge/-Ml--flow-02575E?style=flat&logo=apache&logoColor=white)](https://www.mlflow.org/)
-[![DVC](https://img.shields.io/badge/-DVC-FF6D00?style=flat&logo=dataversioncontrol&logoColor=white)](https://dvc.org/)
+[![DVC]([https://img.shields.io/badge/-DVC-FF6D00?style=flat&logo=dataversioncontrol&logoColor=white](https://dvc.org/))](https://dvc.org/)
 [![Zenml](https://img.shields.io/badge/-Zenml-26A6A4?style=flat&logo=zenml&logoColor=white)](https://zenml.io/)
 [![GitHub Action](https://img.shields.io/badge/-GitHub_Action-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
