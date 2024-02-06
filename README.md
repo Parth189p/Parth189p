@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Parth Panchal
 
-![Parth Panchal](https://github.com/Parth189p/Parth189p/blob/main/programmer_v_02.jpg)
+![Parth Panchal]<img align="right" width="400" height="400" src="https://github.com/Parth189p/Parth189p/blob/main/programmer_v_02.jpg">
 
 I am a highly curious individual with a passion for data science and Machine Learning. My interests range from exploring new concepts and technologies to experimenting with different techniques and tools. My passion for Machine learning is driven by my curiosity and my desire to continue learning and experimenting in the field. I am always looking for new challenges and opportunities to expand my knowledge and skills.
 
@@ -51,9 +51,7 @@ I am a highly curious individual with a passion for data science and Machine Lea
 
 ---
 
-
-
-- 📫 How to reach me
+## 📫 Let's Connect
    
  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](panchalparthppp@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/parth-panchal-b57492240)
