@@ -51,11 +51,11 @@ I am a highly curious individual with a passion for data science and Machine Lea
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/parth-panchal-b57492240)
 
 ---
-
+<!---
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parth189p)
-
+--->
 
 <!---
 Parth189p/Parth189p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
