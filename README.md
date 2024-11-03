@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Parth Panchal
-[![Banner](https://via.placeholder.com/1200x300.png?text=AI+%7C+Machine+Learning+%7C+Innovation)](https://github.com/Parth189p)
+[![Banner](./banner.svg)](https://github.com/Parth189p)
+
+<!---
 
 <div align="center">
   
@@ -7,6 +9,7 @@
 [![Years Badge](https://badges.pufler.dev/years/Parth189p?style=for-the-badge&color=green)](https://github.com/Parth189p)
 
 </div>
+--->
 
 ## 🚀 About Me
 I'm a passionate AI/ML Engineer with 2 years of hands-on experience in developing and deploying machine learning solutions. My journey in tech is driven by an insatiable curiosity to explore cutting-edge AI technologies and contribute to meaningful open-source projects.
@@ -26,7 +29,6 @@ mindmap
     Languages
       Python
       SQL
-      R
     AI/ML Frameworks
       TensorFlow
       PyTorch
@@ -53,15 +55,17 @@ mindmap
 | **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
 | **MLOps Tools** | ![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![DVC](https://img.shields.io/badge/DVC-%23945DD6.svg?style=for-the-badge&logo=dataversioncontrol&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
 | **Development** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-
+<!---
 ## 📈 GitHub Stats
 
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parth189p&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth189p&layout=compact&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth189p&layout=compact&theme=radical)
 </div>
+--->
+
 
 ## 🤝 Let's Connect!
 
@@ -69,8 +73,9 @@ mindmap
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-panchal-b57492240)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/parthpanchal18)
+<!---
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](panchalparthppp@gmail.com)
-
+--->
 </div>
 
 ---
