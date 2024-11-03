@@ -32,7 +32,7 @@ mindmap
       PyTorch
       Keras
       Scikit-learn
-    Cloud & MLOps
+    Cloud And MLOps
       AWS
       Azure
       MLflow
@@ -68,7 +68,7 @@ mindmap
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-panchal-b57492240)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/parthpanchal189)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/parthpanchal18)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](panchalparthppp@gmail.com)
 
 </div>
@@ -78,6 +78,8 @@ mindmap
 ### 💡 "The only way to do great work is to love what you do." - Steve Jobs
 
 </div>
+
+
 
 <!---
 ## 📈 GitHub Stats
