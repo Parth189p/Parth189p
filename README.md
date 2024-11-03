@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Parth Panchal
+<!---# 👋 Hi, I'm Parth Panchal--->
+
 [![Banner](./banner.svg)](https://github.com/Parth189p)
 
 <!---
@@ -72,7 +73,7 @@ mindmap
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-panchal-b57492240)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/parthpanchal18)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/parthpanchal189)
 <!---
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](panchalparthppp@gmail.com)
 --->
