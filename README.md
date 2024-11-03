@@ -13,7 +13,8 @@
 --->
 
 ## 🚀 About Me
-I'm a passionate AI/ML Engineer with 2 years of hands-on experience in developing and deploying machine learning solutions. My journey in tech is driven by an insatiable curiosity to explore cutting-edge AI technologies and contribute to meaningful open-source projects.
+I’m a passionate AI/ML engineer who loves exploring new technologies and pushing the boundaries of what's possible with AI. My curiosity drives me to learn, innovate, and contribute to the tech community.
+
 
 ### What Drives Me 🎯
 - 🧠 **Innovation**: Pushing the boundaries of what's possible with AI/ML
