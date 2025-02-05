@@ -39,9 +39,6 @@ mindmap
     LLM Tools
       LangChain
       LangGraph
-      LlamaIndex
-      OpenAI
-      Gemini
       Hugging Face
     Cloud And MLOps
       AWS
