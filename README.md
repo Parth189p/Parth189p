@@ -36,6 +36,13 @@ mindmap
       PyTorch
       Keras
       Scikit-learn
+    LLM Tools
+      LangChain
+      LangGraph
+      LlamaIndex
+      OpenAI
+      Gemini
+      Hugging Face
     Cloud And MLOps
       AWS
       Azure
@@ -47,6 +54,10 @@ mindmap
       Pandas
       NumPy
       Docker
+    Vector Databases
+      Cosmosdb
+      Weaviate
+      ChromaDB
 ```
 
 ### Detailed Expertise 🛠️
@@ -54,9 +65,11 @@ mindmap
 | Category | Technologies |
 |----------|-------------|
 | **AI/ML Frameworks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white) |
+| **LLM Tools** | ![LangChain](https://img.shields.io/badge/🦜️_LangChain-2C974B?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) |
 | **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
 | **MLOps Tools** | ![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![DVC](https://img.shields.io/badge/DVC-%23945DD6.svg?style=for-the-badge&logo=dataversioncontrol&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
 | **Development** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
 <!---
 ## 📈 GitHub Stats
 
